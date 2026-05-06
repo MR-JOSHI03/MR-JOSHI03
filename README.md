@@ -20,7 +20,7 @@
 - 📈 **Data Nerd:** Slaying ETL, SQL, Tableau, and Alteryx for those peak insights.
 - 🎬 **Content & Brand:** Founder at **ShivoraDigital** | Scaling local brands with digital strategy.
 - 🤖 **Virtual Influencers:** Creating AI personas like Ishika Joshi for next-gen collaborations.
-- 🎓 **Education:** MCA aspirant with a background in BTech/BSc.
+- 🎓 **Education:** MCA aspirant with a background in BCA.
 
 <hr>
 

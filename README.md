@@ -9,12 +9,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[your project name]**
-- 🌱 I'm currently learning **[e.g., React, Node.js, DSA]**
+- 🔭 I'm currently working on **SHIVORA DIGITAL**
+- 🌱 I'm currently learning **[e.g., Machine learning, Gen AI, DSA]**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **[your skills, e.g., Python, Java, Web Dev]**
-- 📫 Reach me at: **[your email]**
-- ⚡ Fun fact: **[something interesting about you]**
+- 💬 Ask me about **Python, Java, Web Dev, Cloud**
+- 📫 Reach me at: **shivamjoshi03@outlook.com**
+- ⚡ Fun fact: **FITNESS ENTHUSIAST**
 
 ---
 
@@ -49,13 +49,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/shivamjoshi03" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://x.com/MJoshi2003" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:shivamjoshi03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

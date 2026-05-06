@@ -18,10 +18,9 @@
 
 - 🧠 **AI Whisperer:** Speedrunning Stable Diffusion, Flux, and consistent character workflows.
 - 📈 **Data Nerd:** Slaying ETL, SQL, Tableau, and Alteryx for those peak insights.
-- 🌐 **Web3 & DApps:** Exploring the decentralized world because why not?
-- 🎬 **Content & Brand:** CEO at **ShivoraDigital** | Scaling local brands with high-key digital strategy.
-- 🤖 **Virtual Influencers:** Creating AI personas that actually have more rizz than humans.
-- 🎓 **Education:** Leveling up in Computer Applications (MCA/BTech).
+- 🎬 **Content & Brand:** Founder at **ShivoraDigital** | Scaling local brands with digital strategy.
+- 🤖 **Virtual Influencers:** Creating AI personas like Ishika Joshi for next-gen collaborations.
+- 🎓 **Education:** MCA aspirant with a background in BTech/BSc.
 
 <hr>
 
@@ -33,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40px" title="Pandas" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40px" title="JavaScript"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40px" title="React"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40px" title="Tailwind"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40px" title="Tailwind"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40px" title="PHP"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40px" title="Java"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40px" title="C++" />
@@ -63,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-JOSHI03&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-JOSHI03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
 </p>
 
 <br> 

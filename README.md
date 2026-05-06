@@ -61,13 +61,14 @@
 
 <h3 align="center"> ⚡ The Stats (No Cap) ⚡</h3>  
 
-<p align="center">
-<a href="https://github.com/MR-JOSHI03">
- 
-<img width=32% src="https://github-readme-stats.vercel.app/api?username=MR-JOSHI03&theme=radical&hide_border=true&show_icons=true&locale=en" />
-<img width=35% src='https://github-readme-streak-stats.herokuapp.com/?user=MR-JOSHI03&theme=radical&hide_border=true' />
-<img width=28% src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-JOSHI03&theme=radical&hide_border=true&show_icons=true&locale=en&layout=compact" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-JOSHI03&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-JOSHI03&theme=tokyonight&hide_border=true" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-JOSHI03&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="45%" />
+</div>
 
 <br> 
 
